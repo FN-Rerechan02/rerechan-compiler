@@ -1,0 +1,9 @@
+// hello.rere
+module main;
+
+import std.io;
+
+func main() -> int {
+    print("Hello, World from Rerechan02!\n");
+    return 0;
+}
